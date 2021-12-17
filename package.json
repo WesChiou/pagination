@@ -1,0 +1,20 @@
+{
+  "name": "pagination",
+  "version": "1.0.0",
+  "description": "Simple pagination algorithm by javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "pagination"
+  ],
+  "author": "Qiu Weishi",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.4.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3",
+    "jest": "^27.4.5"
+  }
+}
